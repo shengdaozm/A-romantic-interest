@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.28)  4 JUL 2022 15:04
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.28)  7 JUL 2022 08:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -412,26 +412,26 @@ LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not availa
 第二章
 [6
 
-] [7] [8] [9]
+] [7] [8] [9] [10]
 第三章
-[10
+[11
 
-] [11] [12]
+] [12] [13] [14]
 第四章
-[13
+[15
 
 ]
 第五章
-[14
+[16
 
 ] (./摘抄.aux) ) 
 Here is how much of TeX's memory you used:
- 8902 strings out of 476179
- 238480 string characters out of 5813072
+ 8942 strings out of 476179
+ 241184 string characters out of 5813072
  562482 words of memory out of 5000000
- 29521 multiletter control sequences out of 15000+600000
+ 29561 multiletter control sequences out of 15000+600000
  478681 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,6n,97p,350b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 摘抄.pdf (15 pages).
+Output written on 摘抄.pdf (17 pages).
